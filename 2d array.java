@@ -1,5 +1,5 @@
 import java.util.Scanner;  
-publicclass TwoDArray {  
+publicclass Array {  
 publicstaticvoid main(String[] args) {  
     int[][] arr = newint[3][3];  
     Scanner sc = new Scanner(System.in);  
